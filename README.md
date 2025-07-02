@@ -7,7 +7,7 @@
 </div>
 
 🔗 **Portfolio Website:** [https://ihsanmiranirumi.vercel.app/](https://ihsanmiranirumi.vercel.app/)  
-📄 **GitHub Site:** [ihsanmiranirumi.vercel.app](https://ihsanmiranirumi.vercel.app)  
+📄 **GitHub Site:** [https://ihsanmiranirumi.github.io/](https://ihsanmiranirumi.github.io/)  
 📧 **Email:** ihsanmirani9865@gmail.com
 
 ---
@@ -122,7 +122,7 @@ I bring a blend of **software development**, **AI/ML skills**, and **research mi
 Feel free to reach out if you'd like to collaborate on projects, research, or job opportunities!
 
 - 📧 **Email:** ihsanmirani9865@gmail.com  
-- 🌐 [Portfolio Website](https://ihsanmirani.github.io)  
+- 🌐 [Portfolio Website](https://ihsanmiranirumi.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ihsanmiranirumi/)  
 - 🛠️ [GitHub](https://github.com/IhsanMiraniRumi)
 
