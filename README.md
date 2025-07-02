@@ -1,9 +1,13 @@
-# 👨‍💻 Ihsan Mirani Rumi — Developer Portfolio
+# 👨‍💻 Ihsan Mirani Rumi — Software Engineer
 
-Welcome to my personal portfolio website, crafted with minimalist design using **HTML** and **Tailwind CSS**, and hosted via **GitHub Pages**.
+<div align="center">
+	<img src="welcome-header.gif" alt="Welcome to my GitHub Profile">
+	<br>
+	<br>
+</div>
 
-🔗 **Live Site:** [ihsanmirani.github.io](https://ihsanmirani.github.io)  
-📄 **Online CV:** [ihsanmiranirumi.vercel.app](https://ihsanmiranirumi.vercel.app)  
+🔗 **Portfolio Website:** [https://ihsanmiranirumi.vercel.app/](https://ihsanmiranirumi.vercel.app/)  
+📄 **GitHub Site:** [ihsanmiranirumi.vercel.app](https://ihsanmiranirumi.vercel.app)  
 📧 **Email:** ihsanmirani9865@gmail.com
 
 ---
