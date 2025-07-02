@@ -10,7 +10,7 @@ Welcome to my personal portfolio website, crafted with minimalist design using *
 
 ## 🧠 About Me
 
-I’m a final-year Computer Science and Engineering student at **Shahjalal University of Science and Technology (SUST)** with a strong passion for:
+I’m a Graduate in Computer Science and Engineering from **Shahjalal University of Science and Technology (SUST)** with a strong passion for:
 
 - 🔍 Full-stack web development  
 - 🤖 AI & machine learning applications  
@@ -67,6 +67,18 @@ I bring a blend of **software development**, **AI/ML skills**, and **research mi
 
 ---
 
+
+## 🎓 Education
+
+- **B.Sc. in CSE**, Shahjalal University of Science and Technology (SUST)  
+  _2020–2025_ | **CGPA:** 3.45/4.00  
+- **HSC**, Notre Dame College  
+  _2017–2019_ | **GPA:** 5.0 (with General Scholarship)  
+- **SSC**, Pabna Zilla School  
+  _2015–2017_ | **GPA:** 5.0 (with General Scholarship)
+
+---
+
 ## 🏆 Achievements & Recognition
 
 - 🥇 **SUST CSE Hackathon 2024**  
@@ -75,7 +87,7 @@ I bring a blend of **software development**, **AI/ML skills**, and **research mi
 
 - 🧮 **ICPC Asia Dhaka Regional 2021**  
   Ranked 267 out of 1272 teams (Team: SUST_IronClad)  
-  ![Placement](https://github.com/IhsanMiraniRumi/certificates/blob/main/2021-Asia%20Dhaka%20Preliminary-Ihsan%20Mirani%20Rumi-PLACE.pdf)
+  ![Placement](https://github.com/IhsanMiraniRumi/certificates/blob/main/2021-Asia%20Dhaka%20Preliminary-Ihsan%20Mirani%20Rumi-PLACE.jpg)
 
 ---
 
@@ -90,16 +102,7 @@ I bring a blend of **software development**, **AI/ML skills**, and **research mi
 
 ---
 
-## 🎓 Education
 
-- **B.Sc. in CSE**, Shahjalal University of Science and Technology (SUST)  
-  _2020–2025_ | **CGPA:** 3.45/4.00  
-- **HSC**, Notre Dame College  
-  _2017–2019_ | **GPA:** 5.0 (with General Scholarship)  
-- **SSC**, Pabna Zilla School  
-  _2015–2017_ | **GPA:** 5.0 (with General Scholarship)
-
----
 
 ## 📌 Interests
 
