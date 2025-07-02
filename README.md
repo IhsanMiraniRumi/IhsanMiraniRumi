@@ -77,9 +77,9 @@ I bring a blend of **software development**, **AI/ML skills**, and **research mi
 - **B.Sc. in CSE**, Shahjalal University of Science and Technology (SUST)  
   _2020–2025_ | **CGPA:** 3.45/4.00  
 - **HSC**, Notre Dame College  
-  _2017–2019_ | **GPA:** 5.0 (with General Scholarship)  
+  _2017–2019_ | **GPA:** 5.0 (with Scholarship)  
 - **SSC**, Pabna Zilla School  
-  _2015–2017_ | **GPA:** 5.0 (with General Scholarship)
+  _2015–2017_ | **GPA:** 5.0 (with Scholarship)
 
 ---
 
