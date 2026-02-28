@@ -109,18 +109,6 @@ I bring a blend of **software development**, **AI/ML skills**, and **DevOps expe
 
 ---
 
-## 👥 Leadership Experience
-
-### General Secretary
-
-**Pabna Students’ Association, SUST (2024–Present)**
-
-* Led initiatives for 100+ students from Pabna
-* Organized cultural events, tours, and a winter BBQ
-* Coordinated with juniors, seniors, and university officials
-
----
-
 ## 📌 Interests
 
 * AI & Cloud Computing
