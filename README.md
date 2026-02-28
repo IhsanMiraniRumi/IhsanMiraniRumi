@@ -7,7 +7,9 @@
 </div>
 
 🔗 **Portfolio Website:** [https://ihsanmiraniirumi.vercel.app/](https://ihsanmiraniirumi.vercel.app/)
+
 📄 **GitHub Site:** [https://ihsanmiraniirumi.github.io/](https://ihsanmiraniirumi.github.io/)
+
 📧 **Email:** [ihsanmirani9865@gmail.com](mailto:ihsanmirani9865@gmail.com)
 
 ---
@@ -45,7 +47,7 @@ I bring a blend of **software development**, **AI/ML skills**, and **DevOps expe
 
 ## 🚀 Highlight Projects
 
-### 🚚 Carrybee — E-Courier System
+### 🚚 E-Courier System
 
 **Go, gRPC, PostgreSQL, MongoDB, Redis, Envoy, Kubernetes, ArgoCD**
 
@@ -94,7 +96,7 @@ I bring a blend of **software development**, **AI/ML skills**, and **DevOps expe
 ## 🎓 Education
 
 * **B.Sc. in CSE**, Shahjalal University of Science and Technology (SUST)
-  *2020–2025* | **CGPA:** 3.45/4.00
+  *2020–2025* | **CGPA:** 3.48/4.00
 * **HSC**, Notre Dame College, *2017–2019* | GPA: 5.0 (with Scholarship)
 * **SSC**, Pabna Zilla School, *2015–2017* | GPA: 5.0 (with Scholarship)
 
@@ -121,9 +123,7 @@ I bring a blend of **software development**, **AI/ML skills**, and **DevOps expe
 
 ## 📌 Interests
 
-* AI & Affective Computing
-* Web Application Design
-* Open Source Contributions
+* AI & Cloud Computing
 * Traveling, Video Games, Football
 
 ---
