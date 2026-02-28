@@ -18,7 +18,6 @@
 
 I’m a Graduate in Computer Science and Engineering from **Shahjalal University of Science and Technology (SUST)** with a strong passion for:
 
-* 🔍 Full-stack web development
 * 🤖 AI & machine learning applications
 * 🚀 DevOps, Kubernetes, and modern cloud-native deployments
 * ⚙️ Problem solving and high-traffic production systems
@@ -32,14 +31,12 @@ I bring a blend of **software development**, **AI/ML skills**, and **DevOps expe
 | Area                        | Technologies & Tools                                                         |
 | --------------------------- | ---------------------------------------------------------------------------- |
 | **Languages**               | Go, Python, C++, Java, Bash                                                  |
-| **Web & Frameworks**        | Django, React.js, Next.js, Node.js, Express.js, Streamlit                    |
 | **Databases**               | PostgreSQL, MongoDB, MySQL, Redis, ScyllaDB, PostGIS, Patroni, Elasticsearch |
 | **Machine Learning**        | PyTorch, TensorFlow, Keras, Scikit-learn                                     |
 | **DevOps & Cloud**          | Kubernetes, Docker, ArgoCD, Helm, GitLab CI/CD, GitHub Actions, AWS, GCP     |
 | **Observability & Logging** | Prometheus, Grafana, Loki, OpenTelemetry, Sentry                             |
 | **Messaging & Infra**       | Kafka, NATS, MQTT, Centrifugo, Vault, Envoy                                  |
 | **Storage & Backup**        | MinIO, Longhorn, NFS                                                         |
-| **UI/Styling**              | HTML, CSS, Tailwind CSS, SASS                                                |
 | **Other Tools**             | Git, LaTeX, Postman, REST APIs                                               |
 | **Problem Solving**         | 500+ solved (LeetCode, Codeforces, Vjudge)                                   |
 
