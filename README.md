@@ -1,10 +1,10 @@
 # 👨‍💻 Ihsan Mirani Rumi — Software Engineer
 
-<div align="center">
+<!-- <div align="center">
 	<img src="welcome-header.gif" alt="Welcome to my GitHub Profile">
 	<br>
 	<br>
-</div>
+</div> -->
 
 🔗 **Portfolio Website:** [https://ihsanmiraniirumi.vercel.app/](https://ihsanmiraniirumi.vercel.app/)
 
