@@ -8,7 +8,7 @@
 
 🔗 **Portfolio Website:** [https://ihsanmiraniirumi.vercel.app/](https://ihsanmiraniirumi.vercel.app/)
 
-📄 **GitHub Site:** [https://ihsanmiraniirumi.github.io/](https://ihsanmiraniirumi.github.io/)
+📄 **GitHub Site:** [https://ihsanmiranirumi.github.io/IhsanMiraniRumi/](https://ihsanmiranirumi.github.io/IhsanMiraniRumi/)
 
 📧 **Email:** [ihsanmirani9865@gmail.com](mailto:ihsanmirani9865@gmail.com)
 
