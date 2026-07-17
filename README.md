@@ -1,4 +1,4 @@
-# 👨‍💻 Ihsan Mirani Rumi — Software Engineer
+# 👨‍💻 Ihsan Mirani Rumi — Platform Engineer
 
 <!-- <div align="center">
 	<img src="welcome-header.gif" alt="Welcome to my GitHub Profile">
@@ -16,45 +16,51 @@
 
 ## 🧠 About Me
 
-I’m a Graduate in Computer Science and Engineering from **Shahjalal University of Science and Technology (SUST)** with a strong passion for:
+I'm a Platform Engineer at **US-Bangla Group**, working on **CarryBee**, a large-scale courier and logistics platform serving 40K+ daily users. I started as a Jr. DevOps Engineer at TechnoNext and, following an internal team restructuring, grew into full-stack ownership of the platform — infrastructure, backend services, and databases.
 
+I'm a Computer Science and Engineering graduate from **Shahjalal University of Science and Technology (SUST)**, with a strong interest in:
+
+* ⚙️ Cloud-native infrastructure — Kubernetes, GitOps, and production-grade platform engineering
+* 🧩 Backend development — Go, gRPC, and distributed systems
 * 🤖 AI & machine learning applications
-* 🚀 DevOps, Kubernetes, and modern cloud-native deployments
-* ⚙️ Problem solving and high-traffic production systems
 
-I bring a blend of **software development**, **AI/ML skills**, and **DevOps expertise**, backed by hands-on projects supporting 10–20K+ daily users.
+I bring a blend of **DevOps/platform engineering**, **backend development**, and **AI/ML skills**, backed by hands-on ownership of production systems serving 10K–40K+ daily users.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Area                        | Technologies & Tools                                                         |
-| --------------------------- | ---------------------------------------------------------------------------- |
-| **Languages**               | Go, Python, C++, Java, Bash                                                  |
-| **Databases**               | PostgreSQL, MongoDB, MySQL, Redis, ScyllaDB, PostGIS, Patroni, Elasticsearch |
-| **Machine Learning**        | PyTorch, TensorFlow, Keras, Scikit-learn                                     |
-| **DevOps & Cloud**          | Kubernetes, Docker, ArgoCD, Helm, GitLab CI/CD, GitHub Actions, AWS, GCP     |
-| **Observability & Logging** | Prometheus, Grafana, Loki, OpenTelemetry, Sentry                             |
-| **Messaging & Infra**       | Kafka, NATS, MQTT, Centrifugo, Vault, Envoy                                  |
-| **Storage & Backup**        | MinIO, Longhorn, NFS                                                         |
-| **Other Tools**             | Git, LaTeX, Postman, REST APIs                                               |
-| **Problem Solving**         | 500+ solved (LeetCode, Codeforces, Vjudge)                                   |
+| Area                          | Technologies & Tools                                                          |
+| ------------------------------ | ------------------------------------------------------------------------------ |
+| **Languages**                  | Go, Python, C++, Java, Bash                                                    |
+| **Databases**                  | PostgreSQL (HA, PostGIS), MongoDB, MySQL, Redis, ScyllaDB, Patroni, Elasticsearch |
+| **Orchestration & GitOps**     | Kubernetes (EKS & self-hosted), Docker, ArgoCD, Helm, Vagrant                  |
+| **CI/CD & VCS**                | GitLab CI/CD, GitHub Actions, self-hosted GitLab runners, Git                  |
+| **Messaging & Real-Time**      | Kafka, NATS (JetStream, clustering), MQTT/EMQX, Centrifugo                     |
+| **Observability & Logging**    | Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Sentry, Promtail/Alloy        |
+| **Networking & Service Mesh**  | Envoy, Nginx, HashiCorp Consul, OpenVPN, SSH/TLS, Vault                        |
+| **Storage & Registry**         | MinIO, Longhorn, NFS, Harbor                                                   |
+| **Data & Workflow**            | Apache Airflow, Apache Superset                                                |
+| **Machine Learning**           | PyTorch, TensorFlow, Keras, Scikit-learn                                       |
+| **Cloud Platforms**            | AWS (EKS, EC2), GCP                                                            |
+| **Other Tools**                | LaTeX, Postman, REST APIs                                                      |
+| **Problem Solving**            | 500+ solved (LeetCode, Codeforces, Vjudge)                                     |
 
 ---
 
 ## 🚀 Highlight Projects
 
-### 🚚 E-Courier System
+### 🚚 CarryBee — E-Courier & Logistics Platform
 
 **Go, gRPC, PostgreSQL, MongoDB, Redis, Envoy, Kubernetes, ArgoCD**
 
-* Contributed to large-scale migration from GCP to AWS EC2 for multiple databases (1.5B+ records)
-* Assisted in automation of migration pipelines and validation, reducing migration time by 65%
-* Supported infrastructure setup: Kubernetes clusters, ArgoCD pipelines, Helm charts, and CI/CD workflows
-* Helped migrate staging environment from cloud to local servers, cutting operational costs by 70%
-* Integrated **Elasticsearch** to improve search and query performance across large datasets
-* Provided continuous monitoring and 24/7 support for a critical production system serving 20K+ daily users
-* Assisted in diagnosing and resolving live production issues to improve system reliability
+* Own end-to-end infrastructure and a growing share of backend engineering for a platform serving 40K+ daily users
+* Design and build Transport Management System (TMS) APIs, contributing to a centralized protobuf repository for shared service contracts
+* Led migration automation and validation for a large-scale GCP → AWS EC2 migration covering 1.5B+ records, cutting migration time by over 65%
+* Migrated staging infrastructure from cloud to local/self-hosted servers, reducing operational cost by ~70%
+* Operate Kubernetes/ArgoCD/Helm across ~15 microservices; run production PostgreSQL/MongoDB/Redis with HA setup and x86/x64 → ARM migration across databases and EKS
+* Deployed a full observability stack (Prometheus, Grafana, Loki, Tempo) and resolve production incidents across NATS, Centrifugo/MQTT, and Consul-based services
+* Integrated Elasticsearch to improve search and query performance across large datasets
 
 ---
 
@@ -62,9 +68,9 @@ I bring a blend of **software development**, **AI/ML skills**, and **DevOps expe
 
 **Python, Django, Odoo, Next.js, PostgreSQL**
 
-* Assisted in managing dev, staging, and production environments for 10K+ daily users
-* Supported deployments, new service integrations, and server-level issue resolutions
-* Contributed to maintaining stability and improving deployment reliability
+* Managed development-to-production environments for a business-critical platform serving 10K+ daily users
+* Supported deployments, service integrations, and infrastructure/database issue resolution
+* Contributed to workflow automation and platform reliability improvements
 
 ---
 
@@ -72,9 +78,9 @@ I bring a blend of **software development**, **AI/ML skills**, and **DevOps expe
 
 **Java, Next.js, PostgreSQL, Redis, MinIO**
 
-* Designed and deployed complete infrastructure for stage and production environments
-* Configured separate app, storage (MinIO), and database servers for scalability and fault isolation
-* Improved lunch scheduling efficiency for 600+ users, reducing manual queuing by ~30%
+* Designed and maintained complete staging and production infrastructure
+* Configured separate application, storage (MinIO), and database servers for scalability and fault isolation
+* Improved operational efficiency by ~30% for 600+ regular users
 
 ---
 
@@ -82,11 +88,11 @@ I bring a blend of **software development**, **AI/ML skills**, and **DevOps expe
 
 ### 📘 Comparative Analysis of Emotional Expressions: KDEF vs Bengali Dataset
 
-**Supervisor:** Dr. Sadia Sultana, Associate Professor
+**Supervisor:** Dr. Sadia Sultana, Associate Professor, CSE, SUST
 
 * Developed hybrid AU-based and image-based emotion recognition systems
-* Trained **ResNet-18**, **ViT-B/16**, and **EfficientNet-B0** models under structured noise conditions
-* Tackled bias in AI by comparing emotion recognition on Western vs. Bengali expressions
+* Trained and compared **ResNet-18**, **ViT-B/16**, and **EfficientNet-B0** under structured noise conditions
+* Explored bias in AI by comparing emotion recognition on Western vs. Bengali expressions
 
 ---
 
@@ -122,4 +128,4 @@ I bring a blend of **software development**, **AI/ML skills**, and **DevOps expe
 
 ---
 
-> “I create smooth digital experiences by combining software development with AI and cloud-native solutions, building resilient, user-friendly, and high-performance systems.”
+> "I build and operate resilient, high-traffic platforms — combining backend engineering with cloud-native infrastructure to deliver systems that are reliable, scalable, and fast."
