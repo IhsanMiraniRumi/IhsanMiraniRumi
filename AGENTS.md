@@ -47,6 +47,9 @@ It is a Markdown profile, with no application build or test suite.
 - Favor readable Markdown, short paragraphs, and selective bullets. Avoid badge
   walls, external stats widgets, repeated contact sections, and decorative clutter.
 - Use `<br>` when a hard line break is needed, rather than trailing spaces.
+- Inside `<details>`, use HTML headings, paragraphs, emphasis, and lists. The
+  GitHub Pages version displayed nested Markdown as literal text; keep this
+  section compatible with both Pages and the GitHub profile renderer.
 - Use the current README for existing facts rather than duplicating a full CV
   here. Refresh this guide only when a lasting preference or workflow changes.
 
