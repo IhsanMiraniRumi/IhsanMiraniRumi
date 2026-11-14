@@ -70,21 +70,25 @@ Graduated July 2025 · CGPA: **3.48 / 4.00**
 - Cloud Web Application Builder
 
 <details>
-<summary><strong>Research & achievements</strong></summary>
+<summary><strong>Research &amp; achievements</strong></summary>
 
-### Undergraduate thesis
+<h3>Undergraduate thesis</h3>
 
-**Comparative Analysis of Emotional Expressions: KDEF vs Bengali Dataset**<br>
-Supervisor: Dr. Sadia Sultana, Associate Professor, CSE, SUST
+<p><strong>Comparative Analysis of Emotional Expressions: KDEF vs Bengali Dataset</strong><br>
+Supervisor: Dr. Sadia Sultana, Associate Professor, CSE, SUST</p>
 
-- Developed hybrid action-unit-based and image-based emotion recognition systems.
-- Trained and compared ResNet-18, ViT-B/16, and EfficientNet-B0 under structured noise conditions.
-- Explored differences in emotion recognition across Western and Bengali facial-expression datasets.
+<ul>
+  <li>Developed hybrid action-unit-based and image-based emotion recognition systems.</li>
+  <li>Trained and compared ResNet-18, ViT-B/16, and EfficientNet-B0 under structured noise conditions.</li>
+  <li>Explored differences in emotion recognition across Western and Bengali facial-expression datasets.</li>
+</ul>
 
-### Achievements
+<h3>Achievements</h3>
 
-- **SUST CSE Hackathon 2024:** Finalist from 100+ teams with a full-stack e-commerce application integrating AI.
-- **ICPC Asia Dhaka Regional 2021:** Ranked 267 out of 1,272 teams with SUST_IronClad.
+<ul>
+  <li><strong>SUST CSE Hackathon 2024:</strong> Finalist from 100+ teams with a full-stack e-commerce application integrating AI.</li>
+  <li><strong>ICPC Asia Dhaka Regional 2021:</strong> Ranked 267 out of 1,272 teams with SUST_IronClad.</li>
+</ul>
 
 </details>
 
