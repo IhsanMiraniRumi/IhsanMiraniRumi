@@ -1,131 +1,93 @@
-# 👨‍💻 Ihsan Mirani Rumi — Platform Engineer
+# Hi, I'm Ihsan Mirani Rumi
 
-<!-- <div align="center">
-	<img src="welcome-header.gif" alt="Welcome to my GitHub Profile">
-	<br>
-	<br>
-</div> -->
+**Platform Engineer · Kubernetes & GitOps · Go & gRPC**<br>
+Dhaka, Bangladesh
 
-🔗 **Portfolio Website:** [https://ihsanmiraniirumi.vercel.app/](https://ihsanmiraniirumi.vercel.app/)
+[Portfolio](https://ihsanmiraniirumi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ihsanmiranirumi/) · [Email](mailto:hello@imrumi.dev)
 
-📄 **GitHub Site:** [https://ihsanmiranirumi.github.io/IhsanMiraniRumi/](https://ihsanmiranirumi.github.io/IhsanMiraniRumi/)
+I build and operate cloud-native infrastructure and develop backend services in Go. At **US-Bangla Group**, I work on **CarryBee**, a courier and logistics platform, across Kubernetes, deployment automation, databases, messaging, and production troubleshooting.
 
-📧 **Email:** [ihsanmirani9865@gmail.com](mailto:ihsanmirani9865@gmail.com)
+My work spans standing up environments, automating repeatable operations, integrating services, and investigating failures. I also contribute transport-service APIs using Go, gRPC, and REST. I'm particularly interested in how backend design and infrastructure decisions affect the reliability of distributed systems.
 
----
+## Experience
 
-## 🧠 About Me
+**Platform Engineer I — CarryBee, US-Bangla Group**<br>
+Platform Engineering Team · March 2026–Present
 
-I'm a Platform Engineer at **US-Bangla Group**, working on **CarryBee**, a large-scale courier and logistics platform serving 40K+ daily users. I started as a Jr. DevOps Engineer at TechnoNext and, following an internal team restructuring, grew into full-stack ownership of the platform — infrastructure, backend services, and databases.
+- Manage infrastructure automation and GitOps pipelines across CarryBee's microservices, and collaborate on production troubleshooting and cloud migrations.
+- Rebuilt CarryBee's staging environment following its transfer to the Platform team, migrating service repositories and setting up deployments, observability, and custom Grafana dashboards.
+- Implemented single, bulk, and batch transport-management APIs in Go with gRPC and REST interfaces; shipped to staging and resolved issues found during testing and rollout.
 
-I'm a Computer Science and Engineering graduate from **Shahjalal University of Science and Technology (SUST)**, with a strong interest in:
+**Junior DevOps Engineer — TechnoNext, US-Bangla Group**<br>
+DevOps Team · July 2025–March 2026
 
-* ⚙️ Cloud-native infrastructure — Kubernetes, GitOps, and production-grade platform engineering
-* 🧩 Backend development — Go, gRPC, and distributed systems
-* 🤖 AI & machine learning applications
+- Provisioned infrastructure and CI/CD pipelines for CarryBee, ERP, and an internal lunch-management application across multiple environments.
+- Managed automated backups and production deployments, supporting application runtimes and troubleshooting infrastructure issues.
 
-I bring a blend of **DevOps/platform engineering**, **backend development**, and **AI/ML skills**, backed by hands-on ownership of production systems serving 10K–40K+ daily users.
+## Selected engineering work
 
----
+Highlights from my work across these teams:
 
-## 🛠️ Tech Stack
+- **Kubernetes & GitOps:** Built development clusters with kubeadm, containerd, and Cilium, integrating ingress and persistent storage. Automated Argo CD application registration and synchronization from environment-specific Git paths.
+- **Configuration automation:** Built Bash and Python tooling to distribute Consul KV configuration, validating YAML for duplicate keys before upload and handling retries and port-forward cleanup.
+- **Cloud & ARM migrations:** Contributed migration automation and validation for the production move from GCP to AWS EC2. Prepared ARM container builds and migrated selected Kubernetes workloads; supported PostgreSQL migration using Patroni switchovers, etcd membership changes, and HAProxy routing.
+- **Realtime & messaging:** Migrated Centrifugo to Redis-backed coordination in staging and production. Deployed and supported NATS JetStream and EMQX on Kubernetes with persistent storage and application connectivity.
+- **Database operations:** Deployed a PostgreSQL warehouse on ARM Linux and troubleshot Airflow object ownership. Implemented incident diagnostics for query activity, lock contention, replication, and host load; maintained PostgreSQL, MongoDB, and etcd backup tooling.
+- **Observability & recovery:** Configured Prometheus and Grafana monitoring for applications, databases, and Linux hosts. Built Python health alerts and recovered services affected by filesystem permissions, NFS volumes, Consul storage, and cluster API endpoint changes.
+- **Developer infrastructure:** Configured GitLab CI container builds and deployments, prepared self-hosted runners, and resolved Docker permissions, private Go module access, and protobuf tooling issues. Administered self-hosted GitLab and Harbor.
 
-| Area                          | Technologies & Tools                                                          |
-| ------------------------------ | ------------------------------------------------------------------------------ |
-| **Languages**                  | Go, Python, C++, Java, Bash                                                    |
-| **Databases**                  | PostgreSQL (HA, PostGIS), MongoDB, MySQL, Redis, ScyllaDB, Patroni, Elasticsearch |
-| **Orchestration & GitOps**     | Kubernetes (EKS & self-hosted), Docker, ArgoCD, Helm, Vagrant                  |
-| **CI/CD & VCS**                | GitLab CI/CD, GitHub Actions, self-hosted GitLab runners, Git                  |
-| **Messaging & Real-Time**      | Kafka, NATS (JetStream, clustering), MQTT/EMQX, Centrifugo                     |
-| **Observability & Logging**    | Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Sentry, Promtail/Alloy        |
-| **Networking & Service Mesh**  | Envoy, Nginx, HashiCorp Consul, OpenVPN, SSH/TLS, Vault                        |
-| **Storage & Registry**         | MinIO, Longhorn, NFS, Harbor                                                   |
-| **Data & Workflow**            | Apache Airflow, Apache Superset                                                |
-| **Machine Learning**           | PyTorch, TensorFlow, Keras, Scikit-learn                                       |
-| **Cloud Platforms**            | AWS (EKS, EC2), GCP                                                            |
-| **Other Tools**                | LaTeX, Postman, REST APIs                                                      |
-| **Problem Solving**            | 500+ solved (LeetCode, Codeforces, Vjudge)                                     |
+## Tools I work with
 
----
+| Area | Technologies |
+| --- | --- |
+| Backend & automation | Go, gRPC, Protocol Buffers, REST APIs, Python, Bash |
+| Containers & GitOps | Kubernetes (AWS EKS & self-hosted), Docker, Helm, Argo CD, Cilium |
+| CI/CD | GitLab CI/CD, GitHub Actions, self-hosted GitLab runners, Git |
+| Cloud, IaC & Linux | AWS, GCP, Terraform, Ubuntu, Rocky Linux |
+| Databases | PostgreSQL, Patroni, MongoDB, Redis, Qdrant |
+| Messaging & realtime | NATS JetStream, MQTT/EMQX, Centrifugo |
+| Observability | Prometheus, Grafana, Loki, Sentry, Promtail, Alloy |
+| Networking & configuration | Envoy, NGINX, HAProxy, Consul |
+| Storage & registries | Amazon S3, MinIO, NFS, Longhorn, Harbor |
+| Data platform operations | Apache Airflow, Apache Superset |
 
-## 🚀 Highlight Projects
+## Labs & exploration
 
-### 🚚 CarryBee — E-Courier & Logistics Platform
+- Built a local **NATS JetStream testbed** with Vagrant and KVM to benchmark replicated publishing and durable-consumer fetching, and investigate batching and storage behavior.
+- Integrated **Alloy and Tempo** in development labs to explore tracing pipelines alongside metrics and logs.
+- Provisioned a containerized **PostGIS** development environment for spatial-query experimentation.
 
-**Go, gRPC, PostgreSQL, MongoDB, Redis, Envoy, Kubernetes, ArgoCD**
+## Education & learning
 
-* Own end-to-end infrastructure and a growing share of backend engineering for a platform serving 40K+ daily users
-* Design and build Transport Management System (TMS) APIs, contributing to a centralized protobuf repository for shared service contracts
-* Led migration automation and validation for a large-scale GCP → AWS EC2 migration covering 1.5B+ records, cutting migration time by over 65%
-* Migrated staging infrastructure from cloud to local/self-hosted servers, reducing operational cost by ~70%
-* Operate Kubernetes/ArgoCD/Helm across ~15 microservices; run production PostgreSQL/MongoDB/Redis with HA setup and x86/x64 → ARM migration across databases and EKS
-* Deployed a full observability stack (Prometheus, Grafana, Loki, Tempo) and resolve production incidents across NATS, Centrifugo/MQTT, and Consul-based services
-* Integrated Elasticsearch to improve search and query performance across large datasets
+**B.Sc. in Computer Science and Engineering**<br>
+Shahjalal University of Science and Technology (SUST)<br>
+Graduated July 2025 · CGPA: **3.48 / 4.00**
 
----
+**AWS Academy courses · 2024**
 
-### 🏢 ERP System
+- Cloud Foundations
+- Cloud Developing
+- Cloud Web Application Builder
 
-**Python, Django, Odoo, Next.js, PostgreSQL**
+<details>
+<summary><strong>Research & achievements</strong></summary>
 
-* Managed development-to-production environments for a business-critical platform serving 10K+ daily users
-* Supported deployments, service integrations, and infrastructure/database issue resolution
-* Contributed to workflow automation and platform reliability improvements
+### Undergraduate thesis
 
----
+**Comparative Analysis of Emotional Expressions: KDEF vs Bengali Dataset**<br>
+Supervisor: Dr. Sadia Sultana, Associate Professor, CSE, SUST
 
-### 🍽️ Lunch Management System
+- Developed hybrid action-unit-based and image-based emotion recognition systems.
+- Trained and compared ResNet-18, ViT-B/16, and EfficientNet-B0 under structured noise conditions.
+- Explored differences in emotion recognition across Western and Bengali facial-expression datasets.
 
-**Java, Next.js, PostgreSQL, Redis, MinIO**
+### Achievements
 
-* Designed and maintained complete staging and production infrastructure
-* Configured separate application, storage (MinIO), and database servers for scalability and fault isolation
-* Improved operational efficiency by ~30% for 600+ regular users
+- **SUST CSE Hackathon 2024:** Finalist from 100+ teams with a full-stack e-commerce application integrating AI.
+- **ICPC Asia Dhaka Regional 2021:** Ranked 267 out of 1,272 teams with SUST_IronClad.
 
----
-
-## 📊 Research & Thesis
-
-### 📘 Comparative Analysis of Emotional Expressions: KDEF vs Bengali Dataset
-
-**Supervisor:** Dr. Sadia Sultana, Associate Professor, CSE, SUST
-
-* Developed hybrid AU-based and image-based emotion recognition systems
-* Trained and compared **ResNet-18**, **ViT-B/16**, and **EfficientNet-B0** under structured noise conditions
-* Explored bias in AI by comparing emotion recognition on Western vs. Bengali expressions
+</details>
 
 ---
 
-## 🎓 Education
-
-* **B.Sc. in CSE**, Shahjalal University of Science and Technology (SUST)
-  *2020–2025* | **CGPA:** 3.48/4.00
-* **HSC**, Notre Dame College, *2017–2019* | GPA: 5.0 (with Scholarship)
-* **SSC**, Pabna Zilla School, *2015–2017* | GPA: 5.0 (with Scholarship)
-
----
-
-## 🏆 Achievements & Recognition
-
-* 🥇 **SUST CSE Hackathon 2024** — Finalist from 100+ teams, full-stack e-commerce app integrated with AI
-* 🧮 **ICPC Asia Dhaka Regional 2021** — Ranked 267 out of 1272 teams (Team: SUST_IronClad)
-
----
-
-## 📌 Interests
-
-* AI & Cloud Computing
-* Traveling, Video Games, Football
-
----
-
-## 📬 Let's Connect
-
-* 📧 **Email:** [ihsanmirani9865@gmail.com](mailto:ihsanmirani9865@gmail.com)
-* 🌐 [Portfolio Website](https://ihsanmiraniirumi.vercel.app/)
-* 💼 [LinkedIn](https://www.linkedin.com/in/ihsanmiranirumi/)
-* 🛠️ [GitHub](https://github.com/IhsanMiraniRumi)
-
----
-
-> "I build and operate resilient, high-traffic platforms — combining backend engineering with cloud-native infrastructure to deliver systems that are reliable, scalable, and fast."
+Interested in platform engineering, Go services, or distributed systems? [Let's connect](https://www.linkedin.com/in/ihsanmiranirumi/) or reach me at **[hello@imrumi.dev](mailto:hello@imrumi.dev)**.
